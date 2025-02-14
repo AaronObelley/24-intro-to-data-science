@@ -1,7 +1,6 @@
 # Final Project Brief
 ## Module 2: Introduction to Data Science
-### Peckham DAZ Programme - summer 2024
-#### Weeks 6-10
+### Peckham DAZ Programme, 2024-25
 
 | Learning Outcomes |                                                                                                                                     |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -13,9 +12,9 @@
 
 | Assessment               |                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 |--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Submission date          | Monday, 16th September 2024 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Adjusted submission date | Monday, 23rd September 2024 by 11:59 pm                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| Submission method:       | **A single document (.pdf, .md., odt or .docx) uploaded to your personal folder shared by your tutor containing:**<br/>1. A link to your code published on GitHub.<br/>2. A project report describing your data sources, development process, any issues you encountered and how you solved them.<br/>3. Links  to exercises from class and homework developed throughout the course.<br/>4. Any other supplementary materials you may choose to share (optional). |  ------------------------- |----------------------------|       
+| Submission date          | 2 weeks after the final session (same weekday, 11:59 pm)                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Adjusted submission date | 3 weeks after the final session (same weekday, 11:59 pm)                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Submission method:       | **A single document (.pdf, .md., odt or .docx) sent to your tutor via email, containing:**<br/>1. A link to your code published on GitHub.<br/>2. A project report describing your data sources, development process, any issues you encountered and how you solved them.<br/>3. Links  to exercises from class and homework developed throughout the course.<br/>4. Any other supplementary materials you may choose to share (optional). |  ------------------------- |----------------------------|       
 ---
 
 
@@ -23,11 +22,12 @@
 #### How will we mark your work?
 Your work will be marked according to UAL Level 7 (MSc) assessment criteria. If you have any questions, please ask your tutor for clarification.<br>
 
-You will be given a mark of "A", "B" (if the project meets the Advanced criteria), or a "pass", with verbal feedback.
+You will be given a "pass (Standard Brief)" or "pass (Advanced Brief)" grade, with verbal feedback. Please note that if you follow into MSc Computing and the Creative Industry programme at CCI and would like to use this project to get credits, you'll need to to meet the Advanced criteria.
+
 https://www.youtube.com/watch?v=n1IXAFN_79I<br>
 https://www.arts.ac.uk/__data/assets/pdf_file/0034/179737/Assessment-Criteria-Level-7-PDF-94KB.pdf<br><br>
 #### When to expect feedback by
-You can expect feedback within 2 weeks of your submission deadline.<br><br>
+You can expect feedback within approx. 1 month of your submission deadline.<br><br>
 
 #### Adjusted deadline
 If you're eligible for the adjusted deadline, please email your personal tutor directly and CC the Programme Leader (Marysia).<br><br>
@@ -43,7 +43,7 @@ If you're eligible for the adjusted deadline, please email your personal tutor d
 ### Project specification
 
 #### 1. The Python Data Science project:
-- Example website topics:
+- Example project topics:
   - visualise, analyse and describe a selected dataset found online,
   - create your own dataset using web scraping techniques or a selected web API and describe it.
   - manually create a dataset and present insights into it using Python programming techniques.
